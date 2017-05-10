@@ -1,0 +1,50 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : false,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d", "ccui", "extensions"],
+
+    "jsList" : [
+        "src/class/thinkgear.js",
+        "src/class/neurostudy.js",
+        "src/class/simplemenu.js",
+        "src/class/scrollbar.js",
+
+        "src/resource.js",
+
+        "src/scene/logo.js",
+        "src/scene/menu.js",
+        "src/scene/study.js",
+        "src/scene/warmup.js",
+        "src/scene/cooldown.js",
+
+        "src/layer/select_pkg.js",
+        "src/layer/tutorial_warmup.js",
+        "src/layer/tutorial_study.js",
+
+        "src/layer/dialog_quit.js",
+        "src/layer/dialog_warmup.js",
+        "src/layer/dialog_review.js",
+        "src/layer/dialog_checknote.js",
+        "src/layer/dialog_cooldown.js",
+        "src/layer/dialog_thinkgear.js",
+        "src/layer/dialog_mic.js",
+        "src/layer/dialog_load_asset.js",
+        "src/layer/dialog_newstudy.js",
+        "src/layer/dialog_mainstudy.js",
+
+        "src/layer/option.js",
+        "src/layer/loading.js",
+        "src/layer/store.js",
+        "src/layer/voca.js",
+        "src/layer/stat.js",
+        "src/layer/test.js",
+        "src/layer/review.js"
+    ]
+}

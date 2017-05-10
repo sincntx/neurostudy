@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Dropbox/Projects/neurostudy/frameworks/cocos2d-x/cocos/platform/android/libcocos2dx/libcocos2dx.iml" filepath="$USER_HOME$/Dropbox/Projects/neurostudy/frameworks/cocos2d-x/cocos/platform/android/libcocos2dx/libcocos2dx.iml" />
+      <module fileurl="file://$USER_HOME$/Dropbox/Projects/neurostudy/frameworks/runtime-src/proj.android-studio/app/neurostudy.iml" filepath="$USER_HOME$/Dropbox/Projects/neurostudy/frameworks/runtime-src/proj.android-studio/app/neurostudy.iml" />
+      <module fileurl="file://$USER_HOME$/Dropbox/Projects/neurostudy/frameworks/runtime-src/proj.android-studio/proj.android-studio.iml" filepath="$USER_HOME$/Dropbox/Projects/neurostudy/frameworks/runtime-src/proj.android-studio/proj.android-studio.iml" />
+    </modules>
+  </component>
+</project>

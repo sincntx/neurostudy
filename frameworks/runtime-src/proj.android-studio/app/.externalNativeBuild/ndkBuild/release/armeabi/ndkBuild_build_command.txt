@@ -1,0 +1,22 @@
+Executable : /Users/sincntx/ndk/ndk-build
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=/Users/sincntx/Dropbox/Projects/neurostudy/frameworks/runtime-src/proj.android-studio/app/jni/Android.mk
+NDK_APPLICATION_MK=/Users/sincntx/Dropbox/Projects/neurostudy/frameworks/runtime-src/proj.android-studio/app/jni/Application.mk
+APP_ABI=armeabi
+NDK_ALL_ABIS=armeabi
+NDK_DEBUG=0
+APP_PLATFORM=android-9
+NDK_OUT=/Users/sincntx/Dropbox/Projects/neurostudy/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj
+NDK_LIBS_OUT=/Users/sincntx/Dropbox/Projects/neurostudy/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/lib
+NDK_TOOLCHAIN_VERSION=4.9
+APP_PLATFORM=android-13
+NDK_MODULE_PATH=/Users/sincntx/Dropbox/Projects/neurostudy/frameworks/cocos2d-x:/Users/sincntx/Dropbox/Projects/neurostudy/frameworks/cocos2d-x/cocos:/Users/sincntx/Dropbox/Projects/neurostudy/frameworks/cocos2d-x/external
+-j4
+NDK_DEBUG=0
+APP_SHORT_COMMANDS=false
+LOCAL_SHORT_COMMANDS=false
+-B
+-n
+jvmArgs : 
+
