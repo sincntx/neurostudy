@@ -142,7 +142,7 @@ var MenuLayer = cc.Layer.extend({
             new cc.ScaleTo(0.1, 1)
         ));*/
 
-        var menu = new cc.Menu(studyItem, vocaItem);
+        var menu = new cc.Menu(studyItem, vocaItem, statItem);
         menu.alignItemsHorizontallyWithPadding(studyItem.width * 0.9);
         menu.setPosition(cc.p(size.width / 2, size.height / 3 - 30));
         this.addChild(menu);

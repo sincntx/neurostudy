@@ -1,5 +1,6 @@
 var StatLayer = cc.Layer.extend({
-    selectArray : ["오답노트", "집중 & 명상", "스터디 다이어리", "종합"],
+    //selectArray : ["오답노트", "집중 & 명상", "스터디 다이어리", "종합"],
+    selectArray : ["오답노트"],
     selectMenu : null,
     selectLine : null,
 
@@ -92,7 +93,8 @@ var StatLayer = cc.Layer.extend({
         this.selectMenu = new cc.Menu(selectItemArray);
         this.selectMenu.alignItemsHorizontallyWithPadding(120);
         this.selectMenu.attr({
-            x : size.width / 2 - 170,
+            x : 130,
+            //x : size.width / 2 - 170,
             y : size.height - 85
         });
         this.addChild(this.selectMenu);
